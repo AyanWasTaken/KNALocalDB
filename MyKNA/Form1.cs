@@ -16,5 +16,16 @@ namespace MyKNA
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Coming Soon", "Unavailable");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 frm2 = new Form2();
+            frm2.ShowDialog();
+        }
     }
 }
