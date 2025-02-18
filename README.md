@@ -1,5 +1,8 @@
 # KNA LocalDB
-KNA LocalDB is a database to store data on the users computer locally in one place (for .NET). We have our main KNA LocalDB (LDB) for building apps, and MyKNA to edit existing values outside the app (creating new local DBs using MyKNA will be added in the future).
+KNA LocalDB is a database to store data on the users computer locally in one place (for .NET). 
+
+We have our main KNA LocalDB (LDB) for building apps, and MyKNA to edit existing values outside the app (creating new local DBs using MyKNA will be added in the future).
+
 KNA Documentation (basic usage for all apps):
 
 ## MyKNA
