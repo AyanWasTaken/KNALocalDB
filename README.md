@@ -26,4 +26,12 @@ Value Editor
 (PRE-ALPHA VERSION 9, WILL LOOK DIFFERENT ON YOUR END.)
 
 This is slightly complicated as MyKNA is only meant to be edited within the code of a project. Now let us teach you how to use it.
-First we need to select a value
+First we need to select a value to edit, press the button and select the value you want to edit like for this LDB.
+
+![image](https://github.com/user-attachments/assets/87c0a5a0-384c-4f94-90a0-81f4c0603d16)
+
+Select the KNA LDB version the LDB is made in.
+Set the value type to string if you are using 1.0 even if you use the converted integer or booleans.
+
+Input the new value and press save value.
+Just like that, you are done.
