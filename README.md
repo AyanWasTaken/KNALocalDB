@@ -5,7 +5,7 @@ We have our main KNA LocalDB (LDB) for building apps, and MyKNA to edit existing
 
 KNA Documentation (basic usage for all apps):
 
-##KNA LDB (localDB)
+## KNA LDB (localDB)
 todo: add this page
 
 ## MyKNA
