@@ -9,7 +9,7 @@ KNA Documentation:
 ![image](https://github.com/user-attachments/assets/8b35e580-f1a3-4e0a-a790-fa6a5d3dfda7)
 (Screen of MyKNA 1.0, will look different if you're using a pre-release version.)
 
-**How to use**
+<p style="text-align:center"> **How to use** </p> 
 
 Value Editor
 ![image](https://github.com/user-attachments/assets/a398ded8-810f-402c-8cbf-a525df9335cb)
