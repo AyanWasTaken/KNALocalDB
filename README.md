@@ -6,7 +6,7 @@ We have our main KNA LocalDB (LDB) for building apps, and MyKNA to edit existing
 KNA Documentation (basic usage for all apps):
 
 ## KNA LDB (localDB)
-todo: add this page
+This is the main LDB builder. Let me show you how you do it.
 
 ## MyKNA
 Want to edit a KNA LDB outside the code? Look no further. MyKNA is built by me and will not receive any major updates as its just a tool.
