@@ -6,7 +6,20 @@ We have our main KNA LocalDB (LDB) for building apps, and MyKNA to edit existing
 KNA Documentation (basic usage for all apps):
 
 ## KNA LDB (localDB)
-This is the main LDB builder. Let me show you how you do it.
+This is the main LDB builder. Let me show you how you do it as best as I can outside the wiki.
+
+![image](https://github.com/user-attachments/assets/6fe7d2b5-73bc-485b-810f-f44d9bc9d0af)
+Make sure KNA is present in your project directory.
+
+![image](https://github.com/user-attachments/assets/85a1d198-af3f-4064-a66d-637bd2ef8e1f)
+Make sure to add a reference for KNA.dll.
+
+![image](https://github.com/user-attachments/assets/c2ef9163-e46c-4ae9-8084-8ecff9c2d990)
+Add a reference here too.
+
+**Creating a string**
+
+
 
 ## MyKNA
 Want to edit a KNA LDB outside the code? Look no further. MyKNA is built by me and will not receive any major updates as its just a tool.
