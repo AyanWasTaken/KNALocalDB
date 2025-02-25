@@ -9,15 +9,19 @@ KNA Documentation (basic usage for all apps):
 This is the main LDB builder. Let me show you how you do it as best as I can outside the wiki.
 
 ![image](https://github.com/user-attachments/assets/6fe7d2b5-73bc-485b-810f-f44d9bc9d0af)
+
 Make sure KNA is present in your project directory.
 
 ![image](https://github.com/user-attachments/assets/85a1d198-af3f-4064-a66d-637bd2ef8e1f)
+
 Make sure to add a reference for KNA.dll.
 
 ![image](https://github.com/user-attachments/assets/c2ef9163-e46c-4ae9-8084-8ecff9c2d990)
+
 Add a reference here too.
 
 ![image](https://github.com/user-attachments/assets/3874e62a-c7dc-44be-a82a-a17dbfc785ae)
+
 This is the basic usage for the library. Simple right?
 
 **Creating a string**
