@@ -24,8 +24,6 @@ Add a reference here too.
 
 This is the basic usage for the library. Simple right?
 
-**Creating a string**
-
 
 
 ## MyKNA
