@@ -27,7 +27,7 @@ This is the basic usage for the library. Simple right?
 
 
 ## MyKNA
-Want to edit a KNA LDB outside the code? Look no further. MyKNA is built by me and will not receive any major updates as its just a tool.
+Want to edit a KNA LDB outside the code? Look no further. MyKNA is built by me and will not receive any major updates as its just a tool. **MYKNA IS NOT PRODUCTION READY AND IS NOT ADDED TO THE PACKAGES YET.**
 
 *Before installing, make sure you have .NET Framework 4.8 installed.*
 
