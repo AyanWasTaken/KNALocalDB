@@ -1,3 +1,4 @@
+### LDB 1.5 has been delayed until the 21st.
 # KNA LocalDB
 KNA LocalDB is a database to store data on the users computer locally in one place (for .NET). 
 
