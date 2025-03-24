@@ -1,4 +1,5 @@
-### LDB 1.5 has been delayed until the 21st.
+### LDB 1.5 has been released inside the [studio](https://github.com/AyanWasTaken/KnaLDBStudio). Please use the studio as its better for customization and multi-tasking.
+
 # KNA LocalDB
 KNA LocalDB is a database to store data on the users computer locally in one place (for .NET). 
 
